@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Limoon%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20Code%20%26%20Vibes&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22limoonsdev%22%3B;while(true)+%7B+code()%3B+coffee()%3B+%7D;Building+things+that+don't+exist+yet...;Toujours+en+train+de+vibecode+🎧" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22limoonsdev%22%3B;while(true)+%7B+code()%3B+coffee()%3B+%7D;Building+things+that+don't+exist+yet...;Toujours+en+train+de+vibecode+%F0%9F%8E%A7" alt="Typing SVG" />
 </a>
 
 </div>
