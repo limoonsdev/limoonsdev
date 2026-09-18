@@ -1,103 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Limoons&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Creative%20Technologist&descAlignY=61&descSize=18" width="100%" alt="Limoons" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=limoonsdev&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=19&color=0:8b5cf6,100:3b82f6" width="100%" alt="header" />
 
-# `limoonsdev`
-
-### Software, interfaces & experiments — built with curiosity.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/limoonsdev)
-[![Profile Views](https://komarev.com/ghpvc/?username=limoonsdev&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)](https://github.com/limoonsdev)
+<p>
+  <img src="https://img.shields.io/badge/status-actively_building-8b5cf6?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=limoonsdev&style=for-the-badge&color=3b82f6&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/limoonsdev?style=for-the-badge&color=3b82f6&logo=github&label=FOLLOWERS" />
+</p>
 
 </div>
 
----
+## About
 
-## 👋 About me
-
-I'm **Limoons**, a developer who enjoys turning ideas into polished software — from desktop applications and launchers to web platforms, APIs and automation.
-
-I care about **good architecture, clean interfaces and projects that are actually useful**.
+Developer focused on shipping working software — desktop apps, launchers, web platforms, bots, APIs. I care about clean architecture, fast interfaces, and projects that actually get finished.
 
 ```ts
 const limoons = {
-  username: "limoonsdev",
-  focus: ["software", "web", "desktop", "automation"],
-  tools: ["JavaScript", "TypeScript", "Node.js", "React", "C#", "C++"],
-  workflow: "build → test → improve",
-};
+  focus: ["desktop apps", "web platforms", "discord bots", "automation"],
+  daily: ["TypeScript", "React", "Node.js"],
+  also: ["C#", "C++", "Rust"],
+  currently: "shipping",
+} as const;
 ```
 
-> **Build things. Break things. Learn. Build them better.**
+## Stack
 
----
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,rust,py,lua" alt="languages" />
 
-## ⭐ Selected work
+**Frontend / Desktop**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tauri,electron,vite,tailwind" alt="frontend" />
 
-- 🌊 **[Neptune Bot](https://github.com/limoonsdev/neptune-bot)** — Discord automation project.
-- ⚡ **[LS Bot](https://github.com/limoonsdev/ls-bot)** — modular Discord bot and backend ecosystem.
-- 🌐 **[LS Website](https://github.com/limoonsdev/ls-website)** — Next.js web interface.
-- 🎮 **[Idols Launcher](https://github.com/limoonsdev/idols-launcher)** — Tauri + React desktop launcher.
-- 🛠️ **[DeepPatcher](https://github.com/limoonsdev/DeepPatcher)** — developer tooling experiment.
+**Backend / Data**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,mongodb,redis,prisma" alt="backend" />
 
----
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,linux" alt="tools" />
 
-## 🧰 Stack
+## Projects
 
-<div align="center">
+| | Project | Stack | Description |
+|---|---|---|---|
+| 🌊 | **[Neptune Bot](https://github.com/limoonsdev/neptune-bot)** | Node.js, Discord.js | Discord automation project |
+| ⚡ | **[LS Bot](https://github.com/limoonsdev/ls-bot)** | TypeScript, Node.js | Modular Discord bot & backend ecosystem |
+| 🌐 | **[LS Website](https://github.com/limoonsdev/ls-website)** | Next.js, React, Tailwind | Web interface for the LS ecosystem |
+| 🎮 | **[Idols Launcher](https://github.com/limoonsdev/idols-launcher)** | Tauri, React, Rust | Native desktop game launcher |
+| 🛠️ | **[DeepPatcher](https://github.com/limoonsdev/DeepPatcher)** | C++, C# | Developer patching/tooling utility |
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,cs,cpp,html,css" alt="Languages" />
-
-### Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,vite,tailwind,dotnet,tauri" alt="Frameworks" />
-
-### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,figma" alt="Tools" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis" alt="Databases" />
-
-</div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=limoonsdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limoonsdev&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" alt="Top languages" />
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=limoonsdev&hide_border=true&theme=transparent" alt="GitHub streak" />
-</div>
-
----
-
-## 🧠 Things I like building
-
-```text
-  ⚡ Developer tools       🎨 Interfaces & UI
-  🤖 Discord applications  🌐 Web applications
-  🎮 Desktop launchers     🔌 APIs & backends
-  🧪 Experiments           🛠️ Automation
-```
-
-I enjoy exploring new technologies, improving existing ideas and turning rough prototypes into cleaner, more complete projects.
-
----
-
-## 📈 Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/limoonsdev/limoonsdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity" />
-</div>
-
----
+## Stats
 
 <div align="center">
 
-### Thanks for stopping by ⭐
+<img src="https://github-readme-stats.vercel.app/api?username=limoonsdev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limoonsdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="top langs" />
 
-**`limoonsdev` · building one project at a time.**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=limoonsdev&hide_border=true&theme=tokyonight" alt="streak" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=limoonsdev&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph" />
 
 </div>
+
+## Contact
+
+<p>
+  <a href="https://github.com/limoonsdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8b5cf6,100:3b82f6" width="100%" />
