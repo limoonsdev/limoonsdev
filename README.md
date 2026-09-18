@@ -1,75 +1,91 @@
-<div align="center">
+<!-- @kaazyxx profile — renders on https://github.com/kaazyxx -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=limoonsdev&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creative%20Technologist&descAlignY=58&descSize=19&color=0:8b5cf6,100:3b82f6" width="100%" alt="header" />
-
-<p>
-  <img src="https://img.shields.io/badge/status-actively_building-8b5cf6?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=limoonsdev&style=for-the-badge&color=3b82f6&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/limoonsdev?style=for-the-badge&color=3b82f6&logo=github&label=FOLLOWERS" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Limoons&fontSize=74&fontAlignY=34&fontColor=ffffff&animation=twinkling" alt="header" />
 </p>
 
-</div>
-
-## About
-
-Developer focused on shipping working software — desktop apps, launchers, web platforms, bots, APIs. I care about clean architecture, fast interfaces, and projects that actually get finished.
-
-```ts
-const limoons = {
-  focus: ["desktop apps", "web platforms", "discord bots", "automation"],
-  daily: ["TypeScript", "React", "Node.js"],
-  also: ["C#", "C++", "Rust"],
-  currently: "shipping",
-} as const;
-```
-
-## Stack
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=ts,js,cs,cpp,rust,py,lua" alt="languages" />
-
-**Frontend / Desktop**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tauri,electron,vite,tailwind" alt="frontend" />
-
-**Backend / Data**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,mongodb,redis,prisma" alt="backend" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,postman,linux" alt="tools" />
-
-## Projects
-
-| | Project | Stack | Description |
-|---|---|---|---|
-| 🌊 | **[Neptune Bot](https://github.com/limoonsdev/neptune-bot)** | Node.js, Discord.js | Discord automation project |
-| ⚡ | **[LS Bot](https://github.com/limoonsdev/ls-bot)** | TypeScript, Node.js | Modular Discord bot & backend ecosystem |
-| 🌐 | **[LS Website](https://github.com/limoonsdev/ls-website)** | Next.js, React, Tailwind | Web interface for the LS ecosystem |
-| 🎮 | **[Idols Launcher](https://github.com/limoonsdev/idols-launcher)** | Tauri, React, Rust | Native desktop game launcher |
-| 🛠️ | **[DeepPatcher](https://github.com/limoonsdev/DeepPatcher)** | C++, C# | Developer patching/tooling utility |
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=limoonsdev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limoonsdev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="top langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=limoonsdev&hide_border=true&theme=tokyonight" alt="streak" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=limoonsdev&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph" />
-
-</div>
-
-## Contact
-
-<p>
-  <a href="https://github.com/limoonsdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/limoonsdev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=7AA2F7&center=true&vCenter=true&width=560&lines=dev+tooling+%26+automation;mcp+%2B+agent+workflows;full-stack%2C+infra-heavy" alt="typing" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8b5cf6,100:3b82f6" width="100%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=limoonsdev&style=for-the-badge&color=7aa2f7&label=views" alt="views" />
+  <a href="https://github.com/limoonsdev?tab=followers"><img src="https://img.shields.io/github/followers/limoonsdev?style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github&label=followers" alt="followers" /></a>
+  <a href="https://github.com/limoonsdev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Flimoonsdev&query=%24.public_repos&style=for-the-badge&color=7aa2f7&labelColor=1a1b27&logo=github&label=repos" alt="repos" /></a>
+</p>
+
+---
+
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=limoonsdev&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&include_all_commits=true&hide=contribs&card_width=420" alt="stats" />
+
+### whoami
+
+<!-- swap this line for your own -->
+dev tooling & automation. full-stack, infra-heavy, currently deep in **mcp + agent
+workflows** and a bit of **blender / 3d**.
+
+shipping [**LarpLabs Tools**](https://github.com/limoonsdev/larplabs) 
+
+<a href="https://github.com/kaazyxx/Solar-Framework/stargazers"><img src="https://img.shields.io/github/stars/limoonsdev/ultimate-dev-toolkit?style=flat-square&color=e0af68&labelColor=1a1b27&logo=github&label=%E2%98%85" alt="stars" /></a>
+<a href="https://github.com/limoonsdev/larplabs/network/members"><img src="https://img.shields.io/github/forks/limoonsdev/ultimate-dev-toolkit?style=flat-square&color=7aa2f7&labelColor=1a1b27&logo=github&label=forks" alt="forks" /></a>
+
+<br clear="right" />
+
+---
+
+### stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/-Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/-Rust-1a1b27?style=flat-square&logo=rust&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-1a1b27?style=flat-square&logo=go&logoColor=00ADD8)
+![C++](https://img.shields.io/badge/-C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=00599C)
+<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/-React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-Postgres-1a1b27?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/-Redis-1a1b27?style=flat-square&logo=redis&logoColor=DC382D)
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1a1b27?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/-Terraform-1a1b27?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Git](https://img.shields.io/badge/-Git-1a1b27?style=flat-square&logo=git&logoColor=F05032)
+![Blender](https://img.shields.io/badge/-Blender-1a1b27?style=flat-square&logo=blender&logoColor=E87D0D)
+
+---
+
+### stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kaazyxx&theme=tokyonight&hide_border=true&background=00000000&card_width=470" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaazyxx&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=10" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaazyxx&theme=react-dark&hide_border=true&bg_color=00000000&area=true&custom_title=contribution%20graph" alt="activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaazyxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies" />
+</p>
+
+---
+
+### links
+
+<!-- swap the # for your real profiles, or delete the ones you don't use -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@Kaazyxxdev"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=90&section=footer" alt="footer" />
