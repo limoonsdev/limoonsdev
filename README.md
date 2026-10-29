@@ -28,9 +28,6 @@ My bio site, live at [vyper.lol](https://vyper.lol). This one is not open source
 | --- | --- | --- |
 | [Solar Framework](https://github.com/limoonsdev/Solar-Framework) | An ImGui framework for building modern GUIs | C++ |
 | [Open Gravity](https://github.com/limoonsdev/Open-Gravity) | Open source TypeScript project | TypeScript |
-| [LarpLabs v2](https://github.com/limoonsdev/larplabs-v2) | Tooling and automation platform | TypeScript |
-| [AI Software](https://github.com/limoonsdev/ai_software) | Software built around AI | TypeScript |
-| [DeepPatcher](https://github.com/limoonsdev/DeepPatcher) | Automated patching tool | Shell |
 
 More on my [repositories page](https://github.com/limoonsdev?tab=repositories).
 
