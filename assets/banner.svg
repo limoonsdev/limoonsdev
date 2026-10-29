@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Limoonsdev">
+  <title>Limoonsdev</title>
+  <style>@font-face{font-family:'Pixelify Sans';font-weight:700;src:url(data:font/woff2;base64,d09GMgABAAAAAANUABAAAAAABzwAAAL7AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVCoAXBEICoQMgw4BNgIkAygLFgAEIAWDbAcgDAcbkAVRlA9Gg+SLg2xOWNeSTUNSqTSjaPKM3E36/7PPvllVXXtxwfOk1/+5N7OaJLuPn64EZD6objcfQFEbRcXSKBo4g3P7jyYycRXRCM0qNJ6RubUGz9PO9yukQMswj7RLaOTjEa//AWr/guPweY6JiM6auKZ+JL69L1p84hPppmrusgFN8Gk36xBY08CGM7eGiIrgYyJjDbpsLJEefZ59CAEBAFBC5AgBVj0NyBw8ciJTBpAAAGG10Ioym60561cyB0GKTemid0mBZekeYF9hIh/dbyQtlL88/jh/I6V6/n/Fu9IYEIC8ehdoxCNEloAqAurRvWjxegHoBNzeBwo8UMUjoIoxVENelkobCaI0L/1gpB/qzwrtz67ChLI8SxIVbmEBqALywClwFgAYABQZmsJnTBCYWvYKm86sqooyhfTcMBVEYlO+8cXHImnPlxAw8bm+WC2EjxVKZgbVD8qETtXDTaFq9zWa7FCpKqGbN6td2SAJJRArejwgxFPZDHRQSOzV8/Z3LHQ8WCzvXM4xG03uWJL3Lt49JVIOdJjs7Jm449Qou/P9o/fHa9q6KTvj6H2TS7svNX3fXxjnuPe69LqY7N5uIT8zuZ175ibtKrq9ruT25KG73JRdsXvvTDwdptxcdG/XnKY5N3lnDe3eNbeJME55APg+dXbKq9Jpxt/+7OTT8aspH48AQACBNzU2bppV6PltOvC+ArxruLYtwJfs39A+cfpIR0ijAAh8Or0PEPQcgED1Vp8wX6fRqxL8cnu+1IVl42RwJMCqZd6B9uWsNSAtB1xF5Ig6rnJU1iOOp6vHHKNZ8pyUOmnPTmuSkRICQVaajNV3D5pRORRGBEB7bbXXTiMTERAwFlVAAoVUwARvigeM5WgM9BUA/UQBoTnE1Mp4bWB4J220sQgFrRd9bM2jSTsL2I8MCoqdK77pd7HQ9AtN+DlorW3/ZQ+jPT3cnWd12boJXe+qw7wvcDt5ozSl8+vVI9iDb+0aIFnJtZd+M8n2x+wH) format('woff2');}@font-face{font-family:'Pixelify Sans';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAASsABAAAAAADDQAAARSAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVC4AgSQRCAqMMIh5ATYCJANyCzwABCAFhAQHIAwHGykJUZQwyqlkXyVwTsyFG1cqlbarig2KsTz3uRdbFhzqNsal+208//1YO/etoYmNiE8nMjRpjU7oOh1KcCtdE6XxoX9a03n79+6ShZRQImhSQDLgCqzKQldH1qoaTToTl/tZURztiWNtXr8XSWJZtjGBLuC4/7t5Cz8dRppGBxSVUbx5bJ77eajfxKUa+ZNOJ50LPWNOWO/EXjJQyzIACWMdYwDy/Q+AD/v/n/vVva+CWFIPXSOhU9Lu5hcxjeLSRiUUfkjv0NRD3W+kTGKZzqrAxCkLJpVvz7NfIDABUETGgARjprmBWwdnTRw8aBggMGZOFMQLzLlz9fGES4K4u1uz8hSop9qDg3sg+bTmDxUP+LvjB3mZZ3W+/n/oHGeBr0s+6oB5MJEawRAI06Ddh8cPAcWgInUhDTRS41AP7iMRXZjHiKT/O62gpKKub2QJQxFpDFbDzbxDYMkj3L+f7M/69OberFUqZFKJOEHBCTWsD5gBYB1gFZAvagoAdIHiiOgpzSuB5bgCmNr1/TVI0/0e/HDfND7sn8PCDwYgq9JwXS2Hm2tmZlpVLq9zkfYtChNyV1DCJhVeTthWtKBMqEgroYg+KxLe7D0kJ8UqE9kSAoxGq1WPCVxPWtJTySSy0nRKuqzzFD1fpVqP3+4K3H927RfRkSTmChYItW/knIVk/27MwNwZKCAak/MhxlVRZM2J1dv3ozy2L58rtgoUbG3lNlpcthxiKI9nJWTLoxclGA+6SudM2kxLqMzBEzGHbVewiMVUktP55milt+Lq8vUycXtLgIWAtOU5Pm/HC2AIhKvyg7Zj8iEaTvNgbQeRxQTEe80YrxL4Q25TtCBeplP54+AWQFmmGoZYbiIS1GOfE2VLXIpSzU3BwFkWgQv0nq0WGplf7GUQRZBhzR8c9FSXPYYxbYdsiTQif1SFfWYp848yKn4FpLC31uqemX1XZh19h5n/xEj92pWveIUT0ePR3UmhduifJ4uWdLdaNu6jgFjFG/VskMiGnOp5TpSVML+rkah81ue+9mPnyBDz7LF59DIWxNTqVx7A5WPgHxlrSr1ly9Wy1U2hZCgqFLM16b22eULDjSQw1zGgWSqC0gjQPQxnJ6Gpb9jAEXNpaAaDbkIAIBCcnniN3bfdq5n9wO/c2wYAfyPNt422V1/96HNA8JOuqsaxKWsIRJuu022dUErUukuRKh/K5Xt2IU/Uk9JBb+SbTZp4KggzgvGtge4b9Qambh1c4Z0kky5JTsN3ktn1SfKWoiUVJmMklhZiZRFM5BNlQ+9NApFFRiGQVF55WXk5XiskjNcMxYRhUXAWr6UdngLPlQlomIPmyDqNiqRR5mHUYrNKJJoLMriVQHGpmr20AwEHIFgzDgO1TRlv1tR+Y5GMXMAQtGzujiwnLYuHiyamtXZbUVOsdkml697ualKtG9g2FSpT+EryuTl+Orewo6+FodLa2JbRd2nOxCE=) format('woff2');} text{font-family:'Pixelify Sans',monospace;}</style>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#222538" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="300" rx="14" fill="#1a1b27"/>
+  <rect width="1000" height="300" rx="14" fill="url(#grid)"/>
+
+  <!-- pixel sparkle, top right -->
+  <g fill="#7aa2f7">
+    <rect x="840" y="60" width="20" height="20"/>
+    <rect x="840" y="40" width="20" height="20"/>
+    <rect x="840" y="80" width="20" height="20"/>
+    <rect x="820" y="60" width="20" height="20"/>
+    <rect x="860" y="60" width="20" height="20"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="3.4s" repeatCount="indefinite"/>
+  </g>
+  <g fill="#7aa2f7" opacity="0.45">
+    <rect x="920" y="140" width="10" height="10"/>
+    <rect x="900" y="30" width="10" height="10"/>
+    <rect x="780" y="120" width="10" height="10"/>
+  </g>
+
+  <text x="60" y="152" font-size="96" font-weight="700" fill="#c0caf5">Limoonsdev</text>
+  <text x="64" y="204" font-size="26" font-weight="400" fill="#7aa2f7">I build things with AI and play way too many games.</text>
+
+  <text x="64" y="256" font-size="20" font-weight="400" fill="#6b7394">> now building: <tspan fill="#c0caf5">Sandle Launcher</tspan></text>
+  <rect x="373.6" y="240" width="11" height="20" fill="#7aa2f7">
+    <animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+</svg>
